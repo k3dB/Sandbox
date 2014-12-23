@@ -1,0 +1,18 @@
+abcdefg
+hijklmnop
+qrstuv
+wxyz
+
+This is not the song the never ends, because it always does.
+What is the cubeth root of e?
+I am not completely sure.
+
+var answer = "";
+var question = "How about some code?";
+
+if (question == "I haz the codez")
+  answer = "yes";
+else
+  answer = "no";
+
+console.WriteLine(question + "\n" + answer);
